@@ -1,3 +1,9 @@
-# Heliaquim Nunes da Costa
+### Skills 
+- PHP
+- Laravel/Lumen
+- PostgreSQL
+- MySQL
+- Git
 
-I write code
+### Goals
+Be a back-end developer, learn and share knowlegde
