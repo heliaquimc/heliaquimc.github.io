@@ -1,9 +1,18 @@
-### Skills 
+### Summary
+I'm a back-end developer with 6 years of experience. I like to learn and share knowlegde.
+
+### Majors Skills
 - PHP
-- Laravel/Lumen
+- Laravel
+- Lumen
 - PostgreSQL
 - MySQL
 - Git
 
-### Goals
-Be a back-end developer, learn and share knowlegde
+### Minors Skills
+- Python
+- Elasticserach
+- Javascript
+
+### Contact
+heliaquim@outlook.com
