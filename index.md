@@ -11,5 +11,5 @@ I'm a back-end developer with 6 years of experience. I like to learn and share k
 - Javascript
 
 ### Contact
-- [Linkedin](https://www.linkedin.com/in/heliaquimcosta/)
+- <a href="https://www.linkedin.com/in/heliaquimcosta/"> Linkedin </a>
 - heliaquim@outlook.com
